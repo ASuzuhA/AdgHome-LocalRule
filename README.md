@@ -1,0 +1,2 @@
+# AdgHome-LocalRule
+为弥补adghome未对规则进行添加代理更新功能的替补解决方案
